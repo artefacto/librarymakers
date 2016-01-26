@@ -27,7 +27,7 @@ This site is currently in alpha while we work out what kind of shape it takes, t
 <h3>Categories</h3>
 {% for category in site.categories %}
 
-        <a href="{{base_url}}/category/{{ category | first}}/">
+        <a href="{{site.base_url}}/category/{{ category | first}}/">
             {{ category | first }}
         </a>
         {% unless forloop.last %}, {% endunless %}
@@ -38,7 +38,7 @@ This site is currently in alpha while we work out what kind of shape it takes, t
 {% for tag in site.tags %}
 
     <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size| plus: 70 }}%">
-        <a href="{{base_url}}/tags/{{ tag | first |downcase | slugize }}/">
+        <a href="{{site.base_url}}/tags/{{ tag | first |downcase | slugize }}/">
             {{ tag | first }} ({{ tag | last | size }})
 
         </a>
