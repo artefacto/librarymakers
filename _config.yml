@@ -3,14 +3,14 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        librarymakers/:slug/
+permalink:        librarymakers/:slug
 
 # Setup
 title:            Library Makers
 tagline:          ''
 description:      'Recipes, tutorials and resources for current and future library makers. '
-url:              http://artefacto.github.io/librarymakers/
-baseurl:          http://artefacto.github.io/librarymakers/
+url:              http://artefacto.github.io/librarymakers
+baseurl:          http://artefacto.github.io/librarymakers
 
 author:
   name:           'Kate Lomax'
