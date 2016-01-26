@@ -1,0 +1,31 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        :slug
+
+# Setup
+title:            Library Makers
+tagline:          ''
+description:      'Recipes, tutorials and resources for current and future library makers. '
+url:              http://github/artefacto
+baseurl:          /
+
+author:
+  name:           'Kate Lomax'
+  url:            https://twitter.com/katelomax
+
+paginate:         5
+paginate_path: "posts/page/:num/"
+
+
+# Custom vars
+version:          0.0.5
+
+github:
+  repo:           https://github.com/artefacto/librarymakers
+
+gems:
+- jekyll-gist
+- jekyll-paginate

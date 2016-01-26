@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  {{ content }}
+</div>
+
+
+<div class="post-tags-section">
+<h2>By tag</h2>
+{% include post-tags.html %}
+{% if post.category %}
+            {% for site_category in site.data.categories %}
+                {% if site_category.slug == post.category %}
+                    {% assign category = site_category %}
+                {% endif %}
+            {% endfor %}
+            {% if category %}
+                {% capture category_content %} in <span class="label" style="background-color:{{ category.color }}"><a href="/blog/category/{{ category.slug }}/">{{ category.name }}</a></span>{% endcapture %}
+            {% endif %}
+        {% else %}
+            {% assign category_content = '' %}
+        {% endif %}
+
+</div>
+<hr>
+    <div class="relatedPosts">
+      {% if page.tags %}
+      <h2>Related Posts</h2>
+      {% endif %}
+    <ul>
+      {% assign posts = site.posts | sort: 'title' %}  <!-- sort all posts -->
+    {% for post in posts %}
+    {% assign isAdded = false %}       <!-- used to prevent duplicates -->
+      {% for tagAll in post.tags %}      <!-- all posts's tags -->
+  {% for tag in page.tags %}       <!-- curent post's tags -->
+    {% if tagAll == tag and page.title != post.title and isAdded == false %}
+  <li><a href="{{ post.url}}">{{ post.title }}</a></li>
+{% assign isAdded = true %}
+    {% endif %}
+    {% endfor %}
+    {% endfor %}
+    {% endfor %}
+    </ul>
+
+
+</div>
+
+<span class="post-date">Published: {{ page.date | date_to_string }}</span>

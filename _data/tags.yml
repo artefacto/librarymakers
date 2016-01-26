@@ -1,0 +1,8 @@
+- slug: django
+  name: Django
+
+- slug: arduino
+  name: Arduino
+
+- slug: raspberrypi
+  name: RaspberryPi
