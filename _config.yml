@@ -3,7 +3,7 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        librarymakers/:slug
+permalink:        /:slug
 
 # Setup
 title:            Library Makers
