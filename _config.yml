@@ -10,7 +10,7 @@ title:            Library Makers
 tagline:          ''
 description:      'Recipes, tutorials and resources for current and future library makers. '
 url:              http://artefacto.github.io/librarymakers
-baseurl:          http://artefacto.github.io/librarymakers
+baseurl:          /
 
 author:
   name:           'Kate Lomax'
