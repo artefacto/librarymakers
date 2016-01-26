@@ -9,6 +9,7 @@ permalink:        /:slug
 title:            Library Makers
 tagline:          ''
 description:      'Recipes, tutorials and resources for current and future library makers. '
+site:              http://artefacto.github.io
 url:              http://artefacto.github.io
 baseurl:          /librarymakers
 
