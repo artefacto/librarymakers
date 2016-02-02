@@ -22,8 +22,10 @@ Print a Desktop organiser (thingiverse) - [http://www.thingiverse.com/thing:4085
 
 
 ## Case studies
-[Brighton Jubilee Library visitors get 'Mini-Mes’](http://www.bbc.co.uk/news/uk-england-sussex-24165025)
+[Brighton Jubilee Library visitors get 'Mini-Mes’ (BBC)](http://www.bbc.co.uk/news/uk-england-sussex-24165025)
 
+[
+Loveland Public Library: Empowering Patrons Through 3D Printing (Lulzbot)](https://www.lulzbot.com/learn/case-studies/loveland-public-library-empowering-patrons-through-3d-printing)
 
 [3d Printing Concepts](https://all3dp.com/3d-printing-concepts/) -  (written by a librarian and comes with STL files)
 
