@@ -36,9 +36,8 @@
 <h3>By category</h3>
 {% for category in site.categories %}
 
-        <a href="/category/{{ category | first upcase}}/">
+        <a href="/category/{{ category | first}}/">
             {{ category | first }}
-
         </a>
         {% unless forloop.last %}, {% endunless %}
 
