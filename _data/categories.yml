@@ -1,16 +1,15 @@
 - slug: general
-  name: general
+  name: General
   color: '#3498db'
 
-- slug: programming
-  name: programming
+- slug: coding
+  name: Coding
   color: '#1abc9c'
 
-
 - slug: recipes
-  name: recipes
+  name: Recipes
   color: '#1abc9c'
 
 - slug: beginners
-  name: beginners
+  name: Beginners
   color: '#1abc9c'
