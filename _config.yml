@@ -3,14 +3,14 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Permalinks
-permalink: slug
+permalink: none
 # Setup
 title:            Library Makers
 tagline:          ''
 description:      'Recipes, tutorials and resources for current and future library makers. '
 site:              http://artefacto.github.io
-url:              http://artefacto.github.io
-baseurl:          /librarymakers
+url:              http://www.librarymakers.net
+baseurl:          /
 
 author:
   name:           'Kate Lomax'
