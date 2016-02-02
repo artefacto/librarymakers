@@ -27,4 +27,4 @@ This iteration of the project was created using:
 * [The Poole theme] (https://github.com/poole/)
 * Various icons from the Noun Project
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/artefactors/librarymaker/issues/new) or [ask us on Twitter](https://twitter.com/artefactors).
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/artefacto/librarymakers/issues/new) or [ask us on Twitter](https://twitter.com/artefactors).

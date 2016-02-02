@@ -38,7 +38,7 @@ This site is currently in alpha while we work out what kind of shape it takes, t
 {% for tag in site.tags %}
 
     <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size| plus: 70 }}%">
-        <a href="/tags/{{ tag | first |downcase | slugize | prepend:site.baseurl }}/">
+        <a href="/tags/{{ tag | first |downcase | slugize  }}/">
             {{ tag | first }} ({{ tag | last | size }})
 
         </a>
