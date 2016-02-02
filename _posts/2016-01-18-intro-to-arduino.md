@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intro to Arduino
-categories: [General, Beginners]
+categories: [general, beginners]
 tags: [arduino, microcontrollers]
 ---
 
