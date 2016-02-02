@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message about">
-<img class="logo left" src="{{ site.baseurl }}public/images/robot.png" width=180>
+<img class="logo left" src="/public/images/robot.png" width=180>
 
 <em>One only needs two tools in life: WD-40 to make things go, and duct tape to make them stop.”</em>
 <br><br>
