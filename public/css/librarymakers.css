@@ -66,6 +66,7 @@ a {
 .message.about {
   padding: 0.25rem 1rem 1rem 1rem;
   margin-bottom: 1em;
+  background: #f9f9f9;
 }
 
 // for tag cloud and archives
