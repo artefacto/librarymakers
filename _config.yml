@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Permalinks
-permalink: none
+permalink: :slug
 # Setup
 title:            Library Makers
 tagline:          ''
