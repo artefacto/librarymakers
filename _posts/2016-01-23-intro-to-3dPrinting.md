@@ -18,7 +18,7 @@ The process involves feeding a thermoplastic substance into the 3d Printer where
 [Beginner 3D Printing Projects (Instructables)](http://www.instructables.com/id/Beginner-3D-Printing-Projects/
 )
 
-Print a Desktop organiser (thingiverse) - [http://www.thingiverse.com/thing:408506](http://www.thingiverse.com/thing:408506)
+[Print a Desktop organiser (Thingiverse) ](http://www.thingiverse.com/thing:408506)
 
 
 ## Case studies
@@ -31,8 +31,7 @@ Loveland Public Library: Empowering Patrons Through 3D Printing (Lulzbot)](https
 
 ## More info
 
-http://3dprintingforbeginners.com/
 
-[An in-depth explanation of common 3D printing terms and processes using the Ultimaker 3D printer as an example](http://3dprintingforbeginners.com/wp-content/uploads/2014/04/3D-Printing-Technology_Download.pdf)
+[3D Printers - How Do They Work? (PDF)](http://3dprintingforbeginners.com/wp-content/uploads/2014/04/3D-Printing-Technology_Download.pdf) - An in-depth explanation of common 3D printing terms and processes using the Ultimaker 3D printer as an example
 
 Thingiverse - [http://www.thingiverse.com](http://www.thingiverse.com)
