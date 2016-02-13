@@ -175,4 +175,8 @@ button:hover {
   .sidebar, .sidebar-sticky, .footer, .related-posts, .post-tags-section {
      display: none;
    }
+
+      .no_print {
+        display: none;
+      }
 }
