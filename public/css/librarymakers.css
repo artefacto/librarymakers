@@ -5,6 +5,27 @@ body {
   color: #3A4750;
 }
 
+img {
+  border: 1px solid #ccc;
+
+}
+
+.blue {
+  color: skyblue;
+}
+
+.pink {
+  color: hotpink;
+}
+
+.green {
+  color: lime;
+}
+
+.orange {
+  color: orange;
+}
+
 a {
   text-decoration: none;
   color: #00ADB5 !important;
