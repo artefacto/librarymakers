@@ -14,6 +14,8 @@ Arduino is cross-platform, which means that it can be run on Windows, Mac and Li
 
 Both Arduino software and hardware are open-source, so you can share your ideas with other members of the Arduino community worldwide.
 
+![Arduino intro screen]({{ base.url }}/public/images/arduino-intro-screen.png)
+
 
 ## Recipes
 
