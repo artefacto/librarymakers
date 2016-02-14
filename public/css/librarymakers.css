@@ -10,6 +10,12 @@ img {
 
 }
 
+ h1 {
+
+     font-family: "Source Sans Pro", serif;
+ 
+}
+
 .blue {
   color: skyblue;
 }
@@ -58,10 +64,15 @@ a {
 }
 
 .sidebar {
-  text-align: center;
   padding: 1rem 1rem;
+
+  text-align: center;
   color: #EEEEEE !important;
   background-color: #303841;
+}
+
+.sidebar .container {
+
 }
 
 .sidebar a{
@@ -70,7 +81,6 @@ a {
 
 /* About section */
 .sidebar-about h1 {
-  margin-top: 3em !important;
     font-family: "Source Sans Pro", serif;
   font-size: 2.65rem;
   font-weight: 800;
@@ -91,7 +101,7 @@ a {
   color: #EEEEEE;
 }
 .intro {
-  padding-top: 1rem;
+  padding-top: 2rem;
 }
 
 /*// About page*/
@@ -210,6 +220,7 @@ button:hover {
 }
 
 
+
 @media print {
   .sidebar, .sidebar-sticky, .footer, .related-posts, .post-tags-section {
      display: none;
@@ -218,4 +229,12 @@ button:hover {
       .no_print {
         display: none;
       }
+}
+
+/* weird bug fix for sticky sidebar */
+@media (min-width: 48em) {
+  .sidebar-sticky {
+
+    top: 1px;
+  }
 }
