@@ -4,13 +4,12 @@ title: About
 ---
 
 
->  ![robot](/public/images/robot.png){:style="float:left" width="180px"}
-<em>One only needs two tools in life: WD-40 to make things go, and duct tape to make them stop.”</em>
-<br><br>
-G. Weilacher
+  ![robot](/public/images/robot.png){:style="float:left" class="left no-border" width="180px"} <em>The real challenge we face today is one of spread, scale and equity. We need to spread the innovations we see emerging so they reach everyone’s hands and minds”</em> - Mark Surman, Mozilla Foundation
 
 
-<p style="clear:both">This was a project to bring together various different aspects of our work with makers and makerspaces in libraries and because it's something that we looked for and couldn't find. It's collaborative and open (hopefully even more so in the future).</p>
+<p style="clear:both">This is a project to bring together various different aspects of our work with makers and makerspaces in libraries and because it's something that we looked for and couldn't find. </p>
+
+It's collaborative and open (hopefully even more so in the future).
 
 Find out more about us at:
 
