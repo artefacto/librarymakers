@@ -18,8 +18,8 @@ We're currently in alpha while we work out what kind of shape it takes, test rec
 
 
 <ul>
-<li>An introduction to 'making'</li>
-<li>A beginner's guide to Arduino</li>
+<li><a href="/about">About the LibraryMakers project</a></li>
+<li><a href="/intro-to-makeymakey">A beginner's guide to MaKey MaKey</a></li>
 
 </ul>
 
@@ -35,13 +35,13 @@ We're currently in alpha while we work out what kind of shape it takes, test rec
 {% endfor %}
 <h3>Tags</h3>
 <div class="tagcloud">
-{% for tag in site.tags %}
+ {% for tag in site.tags %}
 
     <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size| plus: 70 }}%">
-        <a href="/tags/{{ tag | first |downcase | slugize  }}/">
+        <a href="/tags/{{ tag | first |downcase | slugize  }}/" class="tag">
             {{ tag | first }} ({{ tag | last | size }})
 
         </a>
 
     </li>
-{% endfor %}
+ {% endfor %}
