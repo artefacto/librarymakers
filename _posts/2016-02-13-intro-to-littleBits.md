@@ -2,7 +2,7 @@
 layout: post
 title: Intro to littleBits
 categories: [general, beginners]
-tags: [circuits, littleBits, kits]
+tags: [circuits, littlebits, kits]
 ---
 
 ## What is it ?
