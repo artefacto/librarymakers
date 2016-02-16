@@ -14,11 +14,13 @@ When you first connect your raspberry Pi, you may not have an operating system i
 
 The easiest way to install this is by using NOOBS (New Out Of the Box Software), an operating system install manager created for the Raspberry Pi. You can either buy this on an SD card that you can insert into your Raspberry Pi or you can create the SD card installer yourself.
 
-https://www.raspberrypi.org/help/noobs-setup/
+
+![Raspberry Pi overview]({{ base.url }}/public/images/Raspberrypi_pcb_overview_Pinout_v01.svg)
+
 
 ## Recipes
 
-[How to install and customize Rasperry Pi zero - Adafruit] (Instructables)](https://blog.adafruit.com/2016/01/15/how-to-install-and-customize-raspbian-on-the-raspberry-pi-piday-raspberrypi-raspberry_pi/)
+[How to install and customize Rasperry Pi zero  (Adafruit)](https://blog.adafruit.com/2016/01/15/how-to-install-and-customize-raspbian-on-the-raspberry-pi-piday-raspberrypi-raspberry_pi/)
 
 Learning Python - [https://www.raspberrypi.org/learning/python-intro/](https://www.raspberrypi.org/learning/python-intro/)
 
