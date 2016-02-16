@@ -2,7 +2,7 @@
 layout: post
 title: How to make a Banana Piano with MaKey Makey
 categories: [recipes, beginners]
-tags: [MaKeyMaKey, keyboard, inputs]
+tags: [makeymakey, keyboard, inputs]
 ---
 
 ## Intro
