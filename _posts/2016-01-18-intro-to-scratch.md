@@ -3,6 +3,8 @@ layout: post
 title: Intro to Scratch
 categories: [general, beginners]
 tags: [scratch, coding, software]
+allow_comments: false
+
 ---
 
 ## What is it ?

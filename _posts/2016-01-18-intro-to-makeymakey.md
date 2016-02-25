@@ -3,6 +3,8 @@ layout: post
 title: Intro to MaKey MaKey
 categories: [general, beginners]
 tags: [makeymakey, microcontrollers]
+allow_comments: false
+
 ---
 
 ## What is it ?

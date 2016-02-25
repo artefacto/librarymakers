@@ -3,6 +3,7 @@ layout: post
 title: Intro to Arduino
 categories: [general, beginners]
 tags: [arduino, microcontrollers]
+allow_comments: false
 ---
 
 ## What is it ?

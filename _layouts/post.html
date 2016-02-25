@@ -46,6 +46,9 @@ layout: default
 
 
 </div>
-<span class="post-date no_print">Published: {{ page.date | date_to_string }}</span>
-<br/>
+
 <a href="{{  site.github.repo  }}/tree/master/{{ page.relative_path }}" class="no_print">Suggest an edit for this page</a>
+
+<br><br>
+
+{% include discuss.html %}
