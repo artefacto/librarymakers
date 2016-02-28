@@ -4,44 +4,61 @@ title: Home
 ---
 
 <div class="intro">
+<span class="type-it"></span>
+<p><icon class="fa fa-terminal"></i> Building a new place for makers in the library</p>
 
-<h2>Welcome to LibraryMakers (alpha)</h2>
-
-
-<p>We created this site as a place to find and share content for makers in the library. 
-</p>
-<p>This website aims to help fill the gap in the professional development and support for library staff in introducing and supporting maker activities in the library. </p>
-We're currently in alpha while we work out what kind of shape it takes, test recipes and add our backlog of content. If you have any questions, suggestions or features you’d particularly like to see, just let us know.</p>
 </div>
 
-<p>Here's some content to help you get started</p>
 
+<!-- <div class="section group">
+	<div class="col span_1_of_3">
+		<h3>ABOUT</h3>
+	</div>
+	<div class="col span_1_of_3">
+		<h3>CONTRIBUTE</h3>
+	</div>
+	<div class="col span_1_of_3">
+		<h3>FIND</h3>
+	</div>
+</div> -->
+<div class="section group">
+	<div class="col span_2_of_4 homepage top left">
+	<h3><i class="fa fa-info red"></i> About</h3>
+  <p>This is an open and collaborative resource to help support library staff in providing maker activities in the library.</p>
+<p><a href="/about">Find out more</a></p>
+	</div>
+	<div class="col span_2_of_4 homepage top right">
+	<h3><i class="fa fa-comment-o red"></i> Get involved</h3>
+  <p>The site's currently in <strike>alpha</strike> beta as we roll out more features & content.</p><p>If you have any questions or requests, just let us know.
+	</div>
+</div>
 
-<ul>
-<li><a href="/about">About the LibraryMakers project</a></li>
-<li><a href="/intro-to-makeymakey">A beginner's guide to MaKey MaKey</a></li>
+<div class="section group">
 
-</ul>
+	<div class="col span_2_of_4 homepage bottom left">
+		<h3><i class="fa fa-search red"></i> Find content</h3>
+    <p>There are different ways to explore the site. </p>
+		<p>Browse by category:<br>
+    {% for category in site.categories %}
 
+           <a href="/category/{{ category | first}}/" class="capitalise">
+                {{ category | first }}
+            </a>
 
-<h3>Categories</h3>
-{% for category in site.categories %}
+            {% unless forloop.last %}, {% endunless %}
 
-        <a href="/category/{{ category | first}}/">
-            {{ category | first }}
-        </a>
-        {% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  </p>
+    <p>You can also <a href="/search">search by keyword</a>.</p>
+	</div>
+	<div class="col span_2_of_4 homepage bottom right">
+		<h3><i class="fa fa-angle-double-right red"></i> Get started </h3>
+		<p>Here's some content to help you get started<br>
+		<ul>
+		<li><a href="/about">About the LibraryMakers project</a></li>
+		<li><a href="/intro-to-makeymakey">A beginner's guide to MaKey MaKey</a></li>
 
-{% endfor %}
-<h3>Tags</h3>
-<div class="tagcloud">
- {% for tag in site.tags %}
-
-    <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size| plus: 70 }}%">
-        <a href="/tags/{{ tag | first |downcase | slugize  }}/" class="tag">
-            {{ tag | first }} ({{ tag | last | size }})
-
-        </a>
-
-    </li>
- {% endfor %}
+		</ul>
+</p>
+</div>
+</div>

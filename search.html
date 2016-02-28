@@ -20,3 +20,16 @@ title: Search
 </div>
 
 <div id="search_results"></div>
+
+<h3>Browse by tags</h3>
+<div class="tagcloud">
+ {% for tag in site.tags %}
+
+    <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size| plus: 70 }}%">
+        <a href="/tags/{{ tag | first |downcase | slugize  }}/" class="tag">
+            {{ tag | first }} ({{ tag | last | size }})
+
+        </a>
+
+    </li>
+ {% endfor %}
