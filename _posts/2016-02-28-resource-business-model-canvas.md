@@ -10,7 +10,7 @@ The Business Model Canvas is a method for developing a business case using a one
 
 It was initially developed by Alexander Osterwalder and was the inspiration for other canvas template models such as the [Lean Canvas](https://leanstack.com/lean-canvas/).
 
-It's a great way to collaboratively develop a plan for a new initiative by focusing on the core elements without needing to produce a ten page business plan that will be out of date quickly or is difficult to iterate.
+It's a great way to collaboratively develop a plan for a new event or makerspace by focusing on the core elements.
 
 The elements included are:
 
