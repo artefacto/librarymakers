@@ -344,6 +344,13 @@ transition: all 0.2s ease-in-out;
 
 }
 
+
+@media only screen and (min-width: 860px) {
+.col.homepage {
+  min-height: 14em;
+}
+}
+
 /*  GO FULL WIDTH BELOW 480 PIXELS */
 @media only screen and (max-width: 480px) {
 	.col {  margin: 1% 0 1% 0%; }
