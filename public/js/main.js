@@ -1,4 +1,4 @@
 $(document).ready(function(){
-    $('.intro p').typeIt();
+    // $('.intro p').typeIt();
 
 });
