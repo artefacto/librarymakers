@@ -9,13 +9,15 @@ allow_comments: false
 ## What is it ?
 Arduino is an open-source electronics prototyping platform. It is intended for anyone who wants to learn programming code as well as built cool interactive hardware objects or devices. Its easy-to-use microcontroller boards and development environment allows you to communicate with the objects which surround you.
 
+![Arduino Mega]({{ base.url }}/public/images/ArduinoMega_Scale.jpg)
+
+
 Since its introduction to the market in 2005, it has been very popular not only amongst the electronics geeks, but also artists, hobbyists and makers, both amateurs and professionals. It has been the base for thousands of creative projects created in the Makers community.
 
 Arduino is cross-platform, which means that it can be run on Windows, Mac and Linux operating systems.
 
 Both Arduino software and hardware are open-source, so you can share your ideas with other members of the Arduino community worldwide.
 
-![Arduino intro screen]({{ base.url }}/public/images/arduino-intro-screen.png)
 
 
 ## Recipes

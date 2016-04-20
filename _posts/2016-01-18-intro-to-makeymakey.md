@@ -11,6 +11,8 @@ allow_comments: false
 MaKey Makey is a great introduction tool into the world of electronics and basic coding.
 It's very simple to use, thus suitable for absolute beginners of all ages with no prior technical knowledge required.
 
+![MaKey MaKey]({{ base.url }}/public/images/MakeyMakeyScale.jpg)
+
 It works on the same principle like a basic circuitry. Using this simple invention kit allows you to turn every-day (conductive) objects into a keyboard, hence Makey Makey, and connect them with the internet. For example, you can create a magical vegetable piano simply by connecting MaKey MaKey with your favourite vegetables and your computer.
 
 A great thing about MaKey MaKey is its compatibility with Arduino. Using Arduino you can easily reprogramme the MaKey Makey and customise the key-mapping to suit your project's needs.

@@ -9,6 +9,8 @@ tags: [makeymakey, keyboard, soundplant]
 
 Would you like to create an interactive space in your library, school or indeed any public space? This recipe shows you how to use MaKey MaKey and Soundplant to change your familiar environment into a magical interactive playground.
 
+![Soundplant]({{ base.url }}/public/images/Soundplant.png)
+
 
 ## What you need
 
@@ -34,7 +36,6 @@ Would you like to create an interactive space in your library, school or indeed 
 
 Now you can play your favourite sounds by touching your selected conductive objects with your "grounded' hand.
 
-![Using MaKey MaKey with SoundCloud]({{ base.url }}/public/images/makeymakey-soundplant.png)
 
 ## More info
 [http://soundplant.org/](http://soundplant.org/)
