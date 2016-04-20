@@ -4,62 +4,60 @@ title: Home
 ---
 
 <div class="intro">
-<span class="type-it"></span>
-<p><icon class="fa fa-terminal"></i> Building a new place for makers in the library</p>
+<p>LibraryMakers is a collaborative collection of resources to help support maker activities and makerspaces in libraries. <a href="/about">Find out more.</a></p>
 
 </div>
 
-
-<!-- <div class="section group">
-	<div class="col span_1_of_3">
-		<h3>ABOUT</h3>
-	</div>
-	<div class="col span_1_of_3">
-		<h3>CONTRIBUTE</h3>
-	</div>
-	<div class="col span_1_of_3">
-		<h3>FIND</h3>
-	</div>
-</div> -->
+<h2>Get started with...</h2>
 <div class="section group">
-	<div class="col span_2_of_4 homepage top left">
-	<h3><i class="fa fa-info red"></i> About</h3>
-  <p>This is an open and collaborative resource to help support library staff in providing maker activities in the library.</p>
-<p><a href="/about">Find out more</a></p>
-	</div>
-	<div class="col span_2_of_4 homepage top right">
-	<h3><i class="fa fa-comment-o red"></i> Get involved</h3>
-  <p>The site's currently in <strike>alpha</strike> beta as we roll out more features. If you have any questions or content to share, just let us know.
-		<p><a href="mailto:librarymakers@artefacto.org.uk">Get in touch</a></p>
+	<div class="col span_1_of_3 first">
+		<div class="article-cards recent-articles">
+	      <a href="/arduino-uploading-example-sketch"><img src='public/images/ArduinoMega_thumb.png' class="thumbnails"></a>
+	      <a class='post-link caption' href="/arduino-uploading-example-sketch">Uploading your first Arduino sketch</a>
 
+	    </div>
+	</div>
+	<div class="col span_1_of_3">
+		<div class="article-cards recent-articles">
+	      <a href="/digital-making-event-checklist"><img src="public/images/Checklist250x188.jpg" class="thumbnails">
+</a>
+	      <a class='post-link caption' href="/digital-making-event-checklist">Digital making event checklist</a>
+
+	    </div>
+	</div>
+	<div class="col span_1_of_3">
+		<div class="article-cards recent-articles">
+      <a href="/interactive-environments-with-makeymakey-and-soundplant"><img src="public/images/MaKeyMaKey_thumb.png" class="thumbnails">
+</a>
+      <a class='post-link caption' href="/interactive-environments-with-makeymakey-and-soundplant">Create interactive environments with MaKey MaKey and Soundplant
+</a>
+
+    </div>
 	</div>
 </div>
-
 <div class="section group">
+	<div class="col span_1_of_3 first">
+		<div class="article-cards recent-articles">
+	      <a href="/piano-keyboard-makey-makey"><img src="public/images/BananaPiano_thumbnail.jpg" class="thumbnails">
+</a>
+	      <a class='post-link caption' href="/piano-keyboard-makey-makey">How to make a Banana Piano with MaKey Makey</a>
 
-	<div class="col span_2_of_4 homepage bottom left">
-		<h3><i class="fa fa-search red"></i> Find content</h3>
-    <p>There are different ways to explore the site. <br>
-		 Browse by category:<br>
-    {% for category in site.categories %}
-
-           <a href="/category/{{ category | first}}/" class="capitalise">
-                {{ category | first }}
-            </a>
-
-            {% unless forloop.last %}, {% endunless %}
-
-    {% endfor %}
-  </p>
-    <p>You can also <a href="/search">search by keyword</a>.</p>
+	    </div>
 	</div>
-	<div class="col span_2_of_4 homepage bottom right">
-		<h3><i class="fa fa-angle-double-right red"></i> Get started </h3>
-	Here's some content to help you get started<br>
-		<ul>
-		<li><a href="/about">About the LibraryMakers project</a></li>
-		<li><a href="/intro-to-makeymakey">A beginner's guide to MaKey MaKey</a></li>
-			<li><a href="/resource-business-model-canvas">Business Model Canvas</li>
-		</ul>
-</div>
+	<div class="col span_1_of_3">
+		<div class="article-cards recent-articles">
+	      <a href="/installing-noobs-raspberrypi"><img src="public/images/RaspberryPi_thumb.png" class="thumbnails">
+</a>
+	      <a class='post-link caption' href="/installing-noobs-raspberrypi">Installing NOOBS on a RaspberryPi</a>
+
+	    </div>
+	</div>
+	<div class="col span_1_of_3">
+		<div class="article-cards recent-articles">
+      <a href="/intro-to-google-cardboard"><img src="public/images/Google_Cardboard_thumbnail.jpg" class="thumbnails">
+</a>
+      <a class='post-link caption' href="/intro-to-google-cardboard">An introduction to Google Cardboard</a>
+
+    </div>
+	</div>
 </div>
