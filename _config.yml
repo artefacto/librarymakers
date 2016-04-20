@@ -7,7 +7,7 @@ permalink: :slug
 # Setup
 title:            Library Makers
 tagline:          ''
-description:      'Recipes, tutorials and resources for current and future library makers. '
+description:      'Recipes, tutorials & resources for current and future library makers. '
 site:              http://artefacto.github.io
 url:              http://www.librarymakers.net
 baseurl:          /
