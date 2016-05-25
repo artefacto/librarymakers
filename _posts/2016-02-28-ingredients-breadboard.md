@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Breadboard
-categories: [ingredients, beginners]
+categories: [ingredients]
 tags: [breadboard, electronics]
 ---
 

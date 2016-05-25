@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using the command line on Raspberry Pi
-categories: [recipes, beginners]
+categories: [recipes]
 tags: [CLI, raspberrypi, command-line]
 ---
 

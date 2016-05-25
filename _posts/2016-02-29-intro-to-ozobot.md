@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Intro to Ozobot
-categories: [general, beginners]
+categories: [ingredients]
+
 tags: [circuits, ozobot, kits]
 ---
 

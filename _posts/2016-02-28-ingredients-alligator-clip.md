@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alligator clips
-categories: [ingredients, beginners]
+categories: [ingredients]
 tags: [wires, equipment]
 ---
 

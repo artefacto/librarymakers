@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intro to Google Cardboard
-categories: [general, beginners]
+categories: [ingredients]
 tags: [VR, virtual_reality, google]
 ---
 

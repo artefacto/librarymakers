@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Digital making event planning checklist
-categories: [event-planning]
+categories: [resources]
 tags: [events, planning]
 ---
 

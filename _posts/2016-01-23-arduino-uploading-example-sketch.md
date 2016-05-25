@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Uploading your first sketch on Arduino
-categories: [recipes, beginners]
+categories: [recipes]
 tags: [arduino, sketches, IDE]
 ---
 

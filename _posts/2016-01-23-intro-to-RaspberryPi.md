@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intro to Raspberry Pi
-categories: [general, beginners]
+categories: [ingredients]
 tags: [raspberrypi, linux]
 ---
 

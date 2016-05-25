@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intro to MaKey MaKey
-categories: [general, beginners]
+categories: [ingredients]
 tags: [makeymakey, microcontrollers]
 allow_comments: false
 

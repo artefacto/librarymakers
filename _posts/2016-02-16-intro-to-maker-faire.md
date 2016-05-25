@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intro to Maker Faire
-categories: [general, beginners]
+categories: [ingredients]
 tags: [events, makerfaire, make]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intro to littleBits
-categories: [general, beginners]
+categories: [ingredients]
 tags: [circuits, littlebits, kits]
 ---
 

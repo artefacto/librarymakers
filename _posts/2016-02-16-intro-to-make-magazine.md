@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intro to Make Magazine
-categories: [general, beginners]
+categories: [ingredients]
 tags: [magazine, make]
 ---
 

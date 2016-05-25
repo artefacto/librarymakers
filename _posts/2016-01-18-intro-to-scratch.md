@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intro to Scratch
-categories: [general, beginners]
+categories: [ingredients]
 tags: [scratch, coding, software]
 allow_comments: false
 

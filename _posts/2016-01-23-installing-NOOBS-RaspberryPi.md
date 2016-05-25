@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Installing NOOBS on a Raspberry Pi
-categories: [recipes, beginners]
+categories: [recipes]
 tags: [raspberrypi, linux]
 ---
 

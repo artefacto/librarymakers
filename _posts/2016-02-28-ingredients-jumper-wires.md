@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jumper wires
-categories: [ingredients, beginners]
+categories: [ingredients]
 tags: [wires, equipment]
 ---
 

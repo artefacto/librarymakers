@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intro to 3D Printing
-categories: [general, beginners]
+categories: [ingredients]
 tags: [3dprinting, manufacturing]
 allow_comments: false
 

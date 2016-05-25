@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OzoBlockly
-categories: [ingredients, beginners]
+categories: [ingredients]
 tags: [software, coding]
 ---
 

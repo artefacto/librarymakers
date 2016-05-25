@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Soundplant
-categories: [ingredients, beginners]
+categories: [ingredients]
 tags: [software, audio]
 ---
 

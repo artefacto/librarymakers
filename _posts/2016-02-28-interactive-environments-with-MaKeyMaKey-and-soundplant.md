@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Create interactive environments with MaKey MaKey and Soundplant
-categories: [recipes, beginners]
+categories: [recipes]
 tags: [makeymakey, keyboard, soundplant]
 ---
 
