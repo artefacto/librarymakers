@@ -119,6 +119,13 @@ a {
 }
 
 /*// for tag cloud and archives*/
+h3.tag-marker:before {
+  display: block;
+  content: " ";
+  margin-top: -185px;
+  height: 185px;
+  visibility: hidden;
+}
 
 .tag-cloud {
   list-style: none;
@@ -130,12 +137,13 @@ a {
     margin: 0 12px 12px 0;
   }
 }
+
 #archives {
   padding: 5px;
 }
 .archive-group {
-  margin: 5px;
-  border-top: 1px solid #ddd;
+    margin: 2em 0;
+    border-top: 1px solid #ddd;
 }
 .archive-item {
   margin-left: 5px;

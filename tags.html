@@ -3,21 +3,20 @@ layout: page
 permalink: /tags/
 ---
 
-<ul class="tag-cloud">
-{% for tag in site.tags %}
-  <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 70  }}%">
-    <a href="#{{ tag | first | slugize }}">
-      {{ tag | first }}
-    </a>
-  </li>
-{% endfor %}
-</ul>
+<div class="tagcloud">
+ {% for tag in site.tags %}
+    <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size| plus: 70 }}%">
+        <a href="/tags/#{{ tag | first |downcase | slugize  }}" class="tag">
+            {{ tag | first }} ({{ tag | last | size }})
+        </a>
+    </li>
+ {% endfor %}
 
 <div id="archives">
 {% for tag in site.tags %}
-  <div class="archive-group">
+   <div class="archive-group">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
-    <h3 id="#{{ tag_name | slugize }}">{{ tag_name }}</h3>
+    <h3 class="tag-marker" id="{{ tag_name | slugize }}">{{ tag_name }}</h3>
     <a name="{{ tag_name | slugize }}"></a>
     {% for post in site.tags[tag_name] %}
     <article class="archive-item">
