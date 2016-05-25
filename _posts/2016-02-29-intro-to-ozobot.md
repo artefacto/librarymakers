@@ -2,7 +2,6 @@
 layout: post
 title: Intro to Ozobot
 categories: [ingredients]
-
 tags: [circuits, ozobot, kits]
 ---
 
@@ -16,9 +15,12 @@ Drawing Games
 [http://ozobot.com/play/drawing-games](http://ozobot.com/play/drawing-games)
 
 Programming with OzoBlockly
-[http://ozoblockly.com/?_ga=1.27056125.1774018878.1456657558
-](http://ozoblockly.com/?_ga=1.27056125.1774018878.1456657558
+[http://ozoblockly.com/
+](http://ozoblockly.com/
 )
+
+Programming with FlashForth
+[http://ashleyf.github.io/ozobot/](http://ashleyf.github.io/ozobot/)
 
 Education Lessons
 [http://ozobot.com/stem-education](http://ozobot.com/stem-education)
