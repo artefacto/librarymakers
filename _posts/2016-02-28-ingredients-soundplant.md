@@ -9,7 +9,7 @@ tags: [software, audio]
 
 Soundplant is the computer keyboard sound triggering software developed by Marcel Blum.
 
-It is a digital audio programme which turns your computer keyboard into a sound-triggering device or juke box.
+It is a digital audio program which turns your computer keyboard into a sound-triggering device or juke box.
 
 By drag and drop, you can easily assign sound files of any format and size into all keyboard keys with no extra hardware needed.
 
