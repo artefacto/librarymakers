@@ -35,6 +35,7 @@ There are a series of lessons for littleBits on the official website, including 
 
 Check out the ['Hack my House' workshop for beginners](http://littlebits.cc/lessons/hack-my-house-workshop) which includes the 3-d paper structure templates to download and use.  
 
+[litleBits CloudBit QuickStart Guide](http://www.inventtolearn.com/wp-content/uploads/2015/07/litleBits-Cloud-Bit-QuickStart.pdf) (PDF) - by Invent To Learn
 
 ## Case studies
 [DIY Clubs in the Library Makerspace](http://littlebits.cc/diy-clubs-in-the-library-makerspace) - Spotlight on the Duxbury Free Library
