@@ -27,11 +27,11 @@ The way you format an SD card is different on Macs, Windows or Linux computers. 
 ![Formatting an SD Card]({{ base.url }}/public/images/format-sd-card-mac.png)
 
 
-For Windows, you need to download a formatting tool like using the SD Association's Formatting Tool, available from sdcard.org. Linux users, you know what to do - http://qdosmsq.dunbar-it.co.uk/blog/2013/06/noobs-for-raspberry-pi/ ;-)
+For Windows, you need to download a formatting tool like using the SD Association's Formatting Tool, available from sdcard.org. Linux users, [you know what to do](http://qdosmsq.dunbar-it.co.uk/blog/2013/06/noobs-for-raspberry-pi/ ) ;-)
 
 ### Save the files to the SD card
 
-- Download the NOOBS files from [(https://www.raspberrypi.org/downloads)]
+- Download the NOOBS files from [https://www.raspberrypi.org/downloads]()
 - Unzip the files
 - Move the files onto the SD card. They need to be in the root directory, so make sure they’re not in a subfolder.
 
@@ -40,4 +40,4 @@ For Windows, you need to download a formatting tool like using the SD Associatio
 
 ## More info
 
-http://www.raspberrypi.org/help/noobs-setup/
+[http://www.raspberrypi.org/help/noobs-setup/](http://www.raspberrypi.org/help/noobs-setup/)
