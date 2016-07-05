@@ -33,10 +33,10 @@ For Windows, you need to download a formatting tool like using the SD Associatio
 
 - Download the NOOBS files from [https://www.raspberrypi.org/downloads]()
 - Unzip the files
-- Move the files onto the SD card. They need to be in the root directory, so make sure they’re not in a subfolder.
+- Move the files onto the SD card. They need to be in the root directory, so make sure they’re not in a subfolder. So, if the version you've download is v1_9_2, move all of the contents of the unzipped NOOBS_v1_9_2 folder onto the SD card.
 
 ### Boot the Pi
-- You can now insert the SD card in the raspberry pi and connect it to a monitor to run the installer.
+- You can now insert the SD card in the raspberry pi and connect it to a monitor and power. The installer will launch and walk you through the next steps.
 
 ## More info
 
