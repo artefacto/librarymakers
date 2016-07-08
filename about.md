@@ -14,6 +14,8 @@ It's collaborative and open and we're always looking for new contributions. Thes
 
   Content has been contributed by [Artefacto](http://artefacto.org.uk), [Cybercitizens](http://www.cybercitizens.org), [Makercart](http://makercart.org.uk) and more.
 
+  The site was built by <a href="https://twitter.com/katelomax" target="_blank">Kate</a>
+
 You can contribute via [GitHub](https://github.com/artefacto/librarymakers).
 
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/artefacto/librarymakers/issues/new) or [ask us on Twitter](https://twitter.com/artefactors).
