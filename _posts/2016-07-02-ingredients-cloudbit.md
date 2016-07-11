@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Thimble
+title: Cloudbit
 categories: [ingredients]
-tags: [webmakers, html, css, coding]
+tags: [littlebits, internet, ifttt]
 ---
 
 ## What is it ?
@@ -19,5 +19,3 @@ IFTTT to make it super easy to control web applications like Facebook, Twitter o
 
 
 ## More info
-
- 
