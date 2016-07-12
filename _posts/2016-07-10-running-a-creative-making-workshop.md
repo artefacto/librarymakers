@@ -53,4 +53,4 @@ Set the task for participants to complete either with parents or in small groups
 #### Part 5 - What’s next
 Let learners know how they can continue their project and what they can next do either on their own or at future library events.
 
-#### (Download the guide)[http://#]
+#### [Download the guide](http://librarymakers.net/public/docs/creativemaking-workshop-with-scratch-and-makeymakey.pdf)
