@@ -2,7 +2,7 @@
 layout: post
 title: Thimble
 categories: [ingredients]
-tags: [webmakers, html, css, coding]
+tags: [webmakers, html, css, learnToCode]
 ---
 
 ## What is it ?
