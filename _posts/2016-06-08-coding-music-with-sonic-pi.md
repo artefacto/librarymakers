@@ -34,9 +34,9 @@ But you don’t have to use the MIDI numbers if you know the notes. You can use 
 
     play :C
     sleep 0.5
-    play D
+    play :D
     sleep 0.5
-    play E
+    play :E
     sleep 0.5
     play :C
     sleep 0.5  
