@@ -46,4 +46,4 @@ You can also edit the assets to change how long they display for and set an expi
 
 ## Where to next
 
-- [https://www.raspberrypi.org/forums/viewtopic.php?f=41&t=12396](Screenly OSE -- Digital Signage for the Raspberry Pi) - Screenly OSE thread on the Raspberry Pi forum. 
+- [https://www.raspberrypi.org/forums/viewtopic.php?f=41&t=12396](Screenly OSE -- Digital Signage for the Raspberry Pi) - Screenly OSE thread on the Raspberry Pi forum.
