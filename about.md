@@ -21,3 +21,12 @@ You can contribute via [GitHub](https://github.com/artefacto/librarymakers).
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/artefacto/librarymakers/issues/new) or [ask us on Twitter](https://twitter.com/artefactors).
 
 {% include newsletter_subscribe.html %}
+
+<div class="feature-box">
+<h3>Hey there!. You may also be interested in our online course</h3>
+<p>
+Making Library Makers is a self-paced online course for library staff interested in makerspaces and making. You can find out more at:
+<a href="http://www.makinglibrarymakers.com" target="_blank" class="super-link">www.makinglibrarymakers.com</a>
+</p>
+
+</div>

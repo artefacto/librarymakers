@@ -11,6 +11,29 @@ h1 {
   font-family: 'Roboto', sans-serif;
 }
 
+a {
+  text-decoration: none;
+  color: #00ADB5 !important;
+}
+/* FEATURE BOX ON THE ABOUT PAGE */
+
+.feature-box {
+  background: 	#00ADB5;
+  color: white;
+  padding: 0.25em 0.5em;
+  border-radius: 10px;
+
+}
+
+.feature-box h3, .feature-box a.super-link{
+      color: #FCB823 !important;
+
+}
+
+.feature-box a:hover {
+  color: #ffffff;
+}
+
 .main-colour {
   color: #00ADB5
 }
@@ -36,10 +59,8 @@ h1 {
 .no-border {
   border: none !important;
 }
-a {
-  text-decoration: none;
-  color: #00ADB5 !important;
-}
+
+
 .left {
   float: left;
   padding-right: 2em;
@@ -202,6 +223,7 @@ button:hover {
 #search_results {
   margin-top: 2em;
 }
+
 
 /* homepage tag cloud */
 
