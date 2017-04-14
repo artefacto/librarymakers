@@ -1,0 +1,6 @@
+---
+layout: posts_by_category
+title: 'Articles by category: programming'
+category: programming
+permalink: /category/programming/
+---

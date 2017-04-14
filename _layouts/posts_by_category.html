@@ -1,0 +1,42 @@
+---
+layout: default
+---
+{% include wrap.html %}
+<div class="container mt">
+    <div class="row">
+<h3 class="ctitle">{{ page.category.uppercase }}
+</h3>
+ <div class="container">
+     <div class="row">
+         <div class="col-lg-8 col-lg-offset-2 centered">
+             <h2> {% if page.category == "recipes" %}
+             <i class="fa fa-asterisk main-colour"></i> These are tutorials and how-to guides for different maker activities that are free to remix and reuse .
+
+             {% elsif page.category == "ingredients" %}
+             <i class="fa fa-asterisk main-colour"></i> Some introductory guides to different tools and resources used in making.
+
+
+              {% endif %}</h2>
+             <br>
+             <div class="hline"></div>
+         </div>
+     </div>
+ </div><! --/container -->
+
+<div>
+  <div class="row">
+      <div class="col-lg-8 col-lg-offset-2">
+    {% if site.categories[page.category] %}
+    <h1>   {% assign cat_name = category[0] %}</h1>
+    <ul class="list-group">
+        {% for post in site.categories[page.category] %}
+       <li class="list-group-item justify-content-between">   <a href={{ post.url}}>{{ post.title }}</a></li>
+        {% endfor %}
+    {% else %}
+        <p>There are no posts for this category.</p>
+    {% endif %}
+</div>
+</div>
+</div>
+</div>
+</div>
