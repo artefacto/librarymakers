@@ -41,12 +41,12 @@ It should direct you to the most popular choice for your operating system.
 
 For Mac, it's VNC Viewer.
 
-![VNC Viewer 1]({{ base.url }}/public/images/raspberrypi/vnc_viewer_download.png)
+![VNC Viewer 1]({{ base.url }}/assets/img/blog/raspberrypi/vnc_viewer_download.png)
 
 
 When you open up *VNC Viewer*, you will be prompted to log in to your Raspberry Pi using the IP address and the Display number (which is likely set to 1 unless you specified otherwise)
 
-![VNC Viewer 2]({{ base.url }}/public/images/raspberrypi/vnc_viewer_login_1.png)
+![VNC Viewer 2]({{ base.url }}/assets/img/blog/raspberrypi/vnc_viewer_login_1.png)
 
 
 And then, finally, set the 8 character password you set for the VNC server .
@@ -56,4 +56,4 @@ And huzzah.
 You will then have access to your Raspberry Pi desktop. It won't be fullscreen but it's still a lot easier to navigate than SSH or other non-graphical ways.
 
 
-![VNC Viewer 3]({{ base.url }}/public/images/raspberrypi/VNC_Viewer_PI_Deskopt.png)
+![VNC Viewer 3]({{ base.url }}/assets/img/blog/raspberrypi/VNC_Viewer_PI_Deskopt.png)

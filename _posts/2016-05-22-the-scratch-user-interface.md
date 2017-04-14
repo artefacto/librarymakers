@@ -10,7 +10,7 @@ This focuses on the Scratch 2.0 editor, though it's similar in layout to the int
 
 ## The main editor
 
-![The scratch editor interface]({{ base.url }}/public/images/scratch/scratch-interface-main-components.png)
+![The scratch editor interface]({{ base.url }}/assets/img/blog/scratch/scratch-interface-main-components.png)
 
 Available at: [https://scratch.mit.edu/projects/editor/](https://scratch.mit.edu/projects/editor/)
 
@@ -44,4 +44,4 @@ A sprite is an object that performs actions in Scratch. Sprites are the only par
 ### What is a stage?
 Stages, on the other hand, are the backdrops in your project.You can make changes to these backdrop images but they don’t move and can’t perform actions based on the scripts you create.
 
-![The sprite info pane]({{ base.url }}/public/images/scratch/sprite and stage area_2.png)
+![The sprite info pane]({{ base.url }}/assets/img/blog/scratch/sprite and stage area_2.png)

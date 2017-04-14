@@ -21,8 +21,8 @@ The resistance clips have two different ways of feedback- either a resistance va
 4. Attach each alligator clip to the dough drum and the other to aluminum foil on your finger. You can create up to 4 drums.
 5. Program it in Scratch.
 
-![Scratch Picoboard script]({{ base.url }}/public/images/picoboard/sensor-picoboard-script.png)
+![Scratch Picoboard script]({{ base.url }}/assets/img/blog/picoboard/sensor-picoboard-script.png)
 
 6. Play and have fun! Remember you can change the drum or beats.
 
-![Scratch Picoboard stage]({{ base.url }}/public/images/picoboard/scratch-stage-picoboard-sensor.png)
+![Scratch Picoboard stage]({{ base.url }}/assets/img/blog/picoboard/scratch-stage-picoboard-sensor.png)

@@ -29,10 +29,10 @@ The magic lies in the fact that pencil lead is graphite, a form of carbon, which
 3. Open this link on your browser [http://soundplant.org/](http://soundplant.org/) to access and download the Soundplant software.
 4. Open Soundplant. Make sure it is open on your screen all the time.
 5. Drag and drop your sound files onto the keyboard keys you would like to use on Soundplant. In this case we assign individual sounds (monkey sounds) onto “left arrow’ and “space” keys.
-![Soundplant and Makey Makey 1]({{ base.url }}/public/images/makeymakey-soundplant-1.png)
+![Soundplant and Makey Makey 1]({{ base.url }}/assets/img/blog/makeymakey-soundplant-1.png)
 6. Connect to Earth - Now you can connect one end of an alligator clip to the bottom of MaKey MaKey which is marked as “Earth”.
 7. Connect to Yourself - Then you hold the other end of the alligator clip (the metal part) between your fingers, and now you become “grounded”.
 8. Connect MaKey MaKey to your drawing - If you want your drawings to become your keyboard keys, you connect them to your MaKey MaKey with the help of alligator clips. On the front side of MaKey MaKey you find “space” and “left arrow”. Connect them with two alligator clips to two parts of your graphite drawing. In our case, we connected MaKey MaKey “space” and “left arrow” to the monkey’s ears.
-![Soundplant and Makey Makey 2]({{ base.url }}/public/images/makeymakey-soundplant-2.jpg)
+![Soundplant and Makey Makey 2]({{ base.url }}/assets/img/blog/makeymakey-soundplant-2.jpg)
 9. Touch the monkey’s ears and play sounds! (Don’t forget the step 7)
  

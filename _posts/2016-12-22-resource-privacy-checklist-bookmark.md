@@ -2,6 +2,7 @@
 layout: post
 title: Privacy Checklist Bookmark
 categories: [resources]
+thumb: thumb03.jpg
 tags: [privacy, security]
 ---
 

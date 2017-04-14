@@ -28,7 +28,7 @@ A great and fun starter project for using a MaKey MaKey is to use different obje
 
 - **Connect MaKey MaKey to bananas**. If you want bananas become your piano keys you simply connect them to your MaKey MaKey with the help of alligator clips. On the front side of MaKey MaKey you find four arrows, space and click. Connect each of them to a banana. Now you can play a melody with your banana piano.
 
-![Banana Keyboard with MaKey MaKey]({{ base.url }}/public/images/BananaPiano.jpg)
+![Banana Keyboard with MaKey MaKey]({{ base.url }}/assets/img/blog/BananaPiano.jpg)
 
 ## More info
  - [MaKey MaKey Quickstart Guide (Sparkfun)](https://learn.sparkfun.com/tutorials/makey-makey-quickstart-guide)

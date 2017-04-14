@@ -9,7 +9,7 @@ tags: [CLI, raspberrypi, command-line]
 
 If you haven’t used a command line interface (CLI) before, you might be a bit lost when you first start up your Raspberry Pi and you see a login screen like this:
 
-![Raspberry Pi boot screen]({{ base.url }}/public/images/RaspberryPi_boot.png)
+![Raspberry Pi boot screen]({{ base.url }}/assets/img/blog/RaspberryPi_boot.png)
 
 Most the time, when using computers, we are accessing them using a Graphical User Interface (GUI). So, when you start your laptop, you see a Windows or Mac login screen or your Desktop layout.
 

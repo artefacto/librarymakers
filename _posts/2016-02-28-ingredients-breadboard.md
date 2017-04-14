@@ -11,4 +11,4 @@ A Breadboard is a construction base for prototyping used in electronics. It is r
 
 
 
-![Breadboard]({{ base.url }}/public/images/breadboard.jpg)
+![Breadboard]({{ base.url }}/assets/img/blog/breadboard.jpg)

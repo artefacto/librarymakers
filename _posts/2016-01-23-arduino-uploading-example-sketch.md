@@ -35,12 +35,12 @@ The IDE should now be able to communicate with your Arduino board.
 
 - Click the "Upload" button in the environment.
 
-![Arduino IDE menu]({{ base.url }}/public/images/arduino-IDE-menu.png)
+![Arduino IDE menu]({{ base.url }}/assets/img/blog/arduino-IDE-menu.png)
 
 
 - The lights on the board will blink while the sketch is being uploaded. If the upload was successful,  you will see the orange pin 13 (L) LED start to blink (in orange). and the message "Done uploading" will appear in the status bar.
 
-![Upload to arduino board]({{ base.url }}/public/images/arduino-upload-blink-sketch.png)
+![Upload to arduino board]({{ base.url }}/assets/img/blog/arduino-upload-blink-sketch.png)
 
 
 Congratulations, you have successfully run a program on your Arduino board.

@@ -15,7 +15,7 @@ When you first connect your raspberry Pi, you may not have an operating system i
 The easiest way to install this is by using NOOBS (New Out Of the Box Software), an operating system install manager created for the Raspberry Pi. You can either buy this on an SD card that you can insert into your Raspberry Pi or you can create the SD card installer yourself.
 
 
-![Raspberry Pi overview]({{ base.url }}/public/images/RaspberryPi_Scale.jpg)
+![Raspberry Pi overview]({{ base.url }}/assets/img/blog/RaspberryPi_Scale.jpg)
 
 
 ## Recipes

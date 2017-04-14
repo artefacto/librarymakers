@@ -20,11 +20,11 @@ In this tutorial you'll learn how to use the PicoBoard slider to control movemen
 * In Scripts, click on 'Events' button to select 'When the green flag clicked' block. This means that when the green flag button is clicked the script will start.
 * Now, let's write a simple script. We click on 'Control' to select 'forever' block, and consequently on 'Motion' to select 'set y to 0' block. Then, either under 'Sensing' or 'More Blocks' we have to select 'slider sensor value'. This allows us to control the character's vertical position with the slider sensor.
 
-![Scratch Picoboard slider script]({{ base.url }}/public/images/picoboard/scratch_Picoboard_Recipe_Slider1.png)
+![Scratch Picoboard slider script]({{ base.url }}/assets/img/blog/picoboard/scratch_Picoboard_Recipe_Slider1.png)
 
 * Checking the box next to 'slider sensor value' under 'Sensing' or 'More Blocks', or 'y position' under 'Motion' makes a sensor watcher appear on the stage, which allows us to see what value the slider sensor is reading. Move the slider on the PicoBoard and watch the readings change.
 * Now let's try to use the slider to move the character up and down. If we want to move the character horizontally (left to right), instead of 'set y to 0' we have to select 'set x to 0' block.
 
-![Scratch Picoboard slider script]({{ base.url }}/public/images/picoboard/Scratch_Picoboard_Recipe1.png)
+![Scratch Picoboard slider script]({{ base.url }}/assets/img/blog/picoboard/Scratch_Picoboard_Recipe1.png)
 
 * Now you can easily use the PicoBoard to control a character in your favourite video game.

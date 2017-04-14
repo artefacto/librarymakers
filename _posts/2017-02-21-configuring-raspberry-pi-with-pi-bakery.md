@@ -2,6 +2,7 @@
 layout: post
 title: Configuring a Raspberry Pi with PiBakery
 categories: [recipes]
+thumb: thumb01.jpg
 tags: [raspberrypi, configuration, tools]
 ---
 
@@ -25,7 +26,7 @@ Nb. It's quite a big file as it includes versions of the Rasbian operating syste
 - Click on the installer. This will walk you through the installation process, including where you install PiBakery.
 - Choose what versions of Raspbian to install, you can install either the full Raspbian with Pixel image or Raspbian Lite (Raspbian Jessie at the time of writing).
 
-![PiBakery install]({{ base.url }}/public/images/pibakery/pibakery-installation.png)
+![PiBakery install]({{ base.url }}/assets/img/blog/pibakery/pibakery-installation.png)
 
 - You can go through the different tabs to configure Rasbian including
 
@@ -36,14 +37,14 @@ Nb. It's quite a big file as it includes versions of the Rasbian operating syste
   - **PiZero OTG** - OTG modes on the Raspberry Pi Zero.
   - **Other** - These include changing directory permissions, running python scripts as a particular user, rebooting or removing files or folders.
 
-  ![PiBakery other options]({{ base.url }}/public/images/pibakery/pibakery-other-options.png)
+  ![PiBakery other options]({{ base.url }}/assets/img/blog/pibakery/pibakery-other-options.png)
 
 
 - You can drag and drop these configuration blocks into a configuration file that can be exported or saved for future use.
 
   So, for example, if you want to clean your Rasbian installation after every workshop you run, you might end up with a script that looks like this:
 
-  ![PiBakery script example]({{ base.url }}/public/images/pibakery/pibakery-script-example-2.png)
+  ![PiBakery script example]({{ base.url }}/assets/img/blog/pibakery/pibakery-script-example-2.png)
 
 - You can then insert your SD card and save the customised operating system to the SD card to be used with your SD card. Click on the Write button in the top right corner. A popup window will prompt you to choose the SD card to write to.
 
@@ -51,7 +52,7 @@ Nb. It's quite a big file as it includes versions of the Rasbian operating syste
 
  If all goes well, you should now see the success message which means your SD card is all set to use with your Raspberry Pi.
 
-   ![PiBakery success]({{ base.url }}/public/images/pibakery/pibakery-write-successful.png)
+   ![PiBakery success]({{ base.url }}/assets/img/blog/pibakery/pibakery-write-successful.png)
 
 The great thing is, you can continue to update and modify your configuration settings via your Windows or Mac computer. So if things aren't quite right, you can come back and easily make any changes required.
 

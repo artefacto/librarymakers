@@ -13,7 +13,7 @@ You can easily apply it almost on any surface, including glass, paper, plastic o
 
 It's a great addition to your maker's box.
 
-![Bare Conductive Paint]({{ base.url }}/public/images/BareConductive.jpg)
+![Bare Conductive Paint]({{ base.url }}/assets/img/blog/BareConductive.jpg)
 
 
 ## More info

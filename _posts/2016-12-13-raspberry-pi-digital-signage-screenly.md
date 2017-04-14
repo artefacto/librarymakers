@@ -2,6 +2,7 @@
 layout: post
 title: Raspberry Pi Digital Signage with Screenly
 categories: [recipes]
+thumb: thumb04.jpg
 tags: [raspberrypi, signage, digital signage]
 ---
 
@@ -35,11 +36,11 @@ When you open the Screenly manager, you will be able to add and remove 'assets' 
 
 They can be uploaded from your computer or added by URL.
 
-![Screenly OSE manager]({{ base.url }}/public/images/screenly/Screenly-add-asset.png)
+![Screenly OSE manager]({{ base.url }}/assets/img/blog/screenly/Screenly-add-asset.png)
 
 You can also edit the assets to change how long they display for and set an expiry date for a particular display.
 
-![Screenly settings]({{ base.url }}/public/images/screenly/Screenly-manager1.png)
+![Screenly settings]({{ base.url }}/assets/img/blog/screenly/Screenly-manager1.png)
 
 ## More info
 - [https://www.screenly.io/ose/](https://www.screenly.io/ose/)

@@ -24,7 +24,7 @@ To install NOOBS on the Raspberry Pi, you have to install it on a bootable SD ca
 
 The way you format an SD card is different on Macs, Windows or Linux computers. For Macs, you can open the Disk Utility app (Applications/Utilities), select the SD card from the list of available drives and select the erase option. Here, you can choose how to reformat the disk. Set it to MS-DOS (FAT) (see below).
 
-![Formatting an SD Card]({{ base.url }}/public/images/format-sd-card-mac.png)
+![Formatting an SD Card]({{ base.url }}/assets/img/blog/format-sd-card-mac.png)
 
 
 For Windows, you need to download a formatting tool like using the SD Association's Formatting Tool, available from sdcard.org. Linux users, [you know what to do](http://qdosmsq.dunbar-it.co.uk/blog/2013/06/noobs-for-raspberry-pi/ ) ;-)

@@ -13,7 +13,7 @@ This example will walk you through creating and sharing your own meme image by c
 
 What we want to create is something like this:
 
-![Example meme]({{ base.url }}/public/images/thimble/example-meme.png)
+![Example meme]({{ base.url }}/assets/img/blog/thimble/example-meme.png)
 
 
 ## What you need
@@ -55,7 +55,7 @@ Now we need to add an image.
 
 Add an image. you can upload new files using the file upload button on the left.
 
-![Upload an image]({{ base.url }}/public/images/thimble/Thimble-upload-file_annotated.png)
+![Upload an image]({{ base.url }}/assets/img/blog/thimble/Thimble-upload-file_annotated.png)
 
 Your uploaded image should now appear in the file list (alongside the CSS and index.html file)
 
@@ -135,13 +135,13 @@ Update your stylesheet to look like this:
 
 Now, you can edit the text for your meme and make any additional changes to the styles that you want.
 
-![Demo meme]({{ base.url }}/public/images/thimble/meme-example-complete.png)
+![Demo meme]({{ base.url }}/assets/img/blog/thimble/meme-example-complete.png)
 
 (something like this except funnier)
 
 Once your meme is ready, click publish to share it with the world.
 
-![Publish your meme]({{ base.url }}/public/images/thimble/publish-your-project.png)
+![Publish your meme]({{ base.url }}/assets/img/blog/thimble/publish-your-project.png)
 
 ### Credits
 Partly inspired by the original Webmaker project by Laura Fleming ([now archived](https://thimble.webmaker.org/project/60766/remix))

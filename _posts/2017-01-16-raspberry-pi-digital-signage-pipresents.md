@@ -2,6 +2,7 @@
 layout: post
 title: Raspberry Pi Digital Signage with Pi Presents
 categories: [recipes]
+thumb: thumb02.jpg
 tags: [raspberrypi, signage, digital signage]
 ---
 

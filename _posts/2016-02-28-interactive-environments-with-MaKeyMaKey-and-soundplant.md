@@ -9,7 +9,7 @@ tags: [makeymakey, keyboard, soundplant]
 
 Would you like to create an interactive space in your library, school or indeed any public space? This recipe shows you how to use MaKey MaKey and Soundplant to change your familiar environment into a magical interactive playground.
 
-![Soundplant]({{ base.url }}/public/images/Soundplant.png)
+![Soundplant]({{ base.url }}/assets/img/blog/Soundplant.png)
 
 
 ## What you need

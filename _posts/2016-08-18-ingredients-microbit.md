@@ -28,7 +28,7 @@ Each editor comes with a tutorial to follow to help you get started.
 
 You can also import a script from a file on your computer. These can be .hex files created in the Micro:bit or .jsz files (a compressed json format)
 
-![Microbit main screen]({{ base.url }}/public/images/microbit/editor-choices.png)
+![Microbit main screen]({{ base.url }}/assets/img/blog/microbit/editor-choices.png)
 
 ## Recipes
 [Interactive badge](https://www.codeclubprojects.org/en-GB/microbit/interactive-badge/)

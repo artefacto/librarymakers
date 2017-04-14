@@ -35,11 +35,11 @@ When you add the tape, ensure you are connecting the positive side of the batter
 In our case, we used a paper clip to complete the circuit, and thus created a very simple switch.
 
 Open circuit:
-![Open paper circuit]({{ base.url }}/public/images/paper-circuits/paper-circuit-open.jpg)
+![Open paper circuit]({{ base.url }}/assets/img/blog/paper-circuits/paper-circuit-open.jpg)
 
 
 Closed circuit:
-![Closed paper circuit]({{ base.url }}/public/images/paper-circuits/paper-circuit-closed.jpg)
+![Closed paper circuit]({{ base.url }}/assets/img/blog/paper-circuits/paper-circuit-closed.jpg)
 
 
 If your LED doesn't come on, press down on the battery to see if the connection needs more pressure.
