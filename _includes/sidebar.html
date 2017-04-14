@@ -40,8 +40,8 @@
     <h4>Popular Tags</h4>
     <div class="hline"></div>
     <p>
-    {% for category in site.categories %}
-            <a class="btn btn-theme" href="{{ '/category/#'  | prepend: site.baseurl  }}{{ category | first }}" role="button">{{ category | first | capitalize }} ({{ category | last | size }})</a>
+    {% for category in site.tags %}
+            <a class="btn btn-theme" href="{{ '/tags/#'  | prepend: site.baseurl  }}{{ category | first }}" role="button">{{ category | first | capitalize }} ({{ category | last | size }})</a>
         {% endfor %}
     </p>
 </div>
