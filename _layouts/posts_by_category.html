@@ -33,8 +33,11 @@ layout: default
        <li class="list-group-item justify-content-between">   <a href={{ post.url}}>{{ post.title }}</a></li>
         {% endfor %}
     {% else %}
-        <p>There are no posts for this category.</p>
+     <div class="col-lg-8 col-lg-offset-2 centered">
+        <h3>There are no posts for this category.</3>
+          <p>Why not submit one?</p>
     {% endif %}
+  </div>
 </div>
 </div>
 </div>
