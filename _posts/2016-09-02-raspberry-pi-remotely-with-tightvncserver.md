@@ -2,6 +2,7 @@
 layout: post
 title: Accessing your Raspberry Pi remotely using tightvncserver
 categories: [recipes]
+thumb: raspberrypi-pixel-tn.png
 tags: [raspberrypi, remote, headless]
 ---
 

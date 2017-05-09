@@ -2,6 +2,7 @@
 layout: post
 title: Creating a Full screen display with Raspberry Pi
 categories: [recipes]
+thumb: raspberry-pi-kiosk-mode.png
 tags: [raspberrypi, display, browser]
 ---
 
@@ -11,7 +12,7 @@ The Raspberry Pi can be a great way to have a low-cost, low-powered display to c
 
 If you are using your Raspberry Pi with a monitor to display a website, dashboard or calendar or something you don’t want it to appear n a browser with the full desktop visible. It also helps to have it autoboot.
 
-In this tutorial, we'll set up a calendar display that automatically launches in fullscreen mode. This fullscreen mode is often called *kiosk mode*. 
+In this tutorial, we'll set up a calendar display that automatically launches in fullscreen mode. This fullscreen mode is often called *kiosk mode*.
 
 ## What you need
 
@@ -75,3 +76,7 @@ e.g.
 presss Ctrl x to exit the file and Y to save your changes
 
 Now when you reboot, your Raspberry Pi should open the website in kiosk mode automatically.
+
+## Where to next
+
+- [Pi-Kitchen-Dashboard](https://github.com/userexec/Pi-Kitchen-Dashboard) - A simple HTML/CSS/JS time and weather dashboard for use with Raspberry Pi and Chromium

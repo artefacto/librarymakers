@@ -1,13 +1,16 @@
 ---
 layout: post
-title: Privacy Checklist Bookmark
+title: Privacy Checklist Bookmark template
 categories: [resources]
-thumb: thumb03.jpg
+thumb: checklist-tn.png
+img: checklist-2077020_640.jpg
 tags: [privacy, security]
 ---
 
 ## What is it
 This bookmark was created as a handy takeaway checklist for users about some online privacy best practices.
+
+<!--more-->
 
 Designed for printing on A4 paper. For best results, we recommend 150gsm stock or higher.
 

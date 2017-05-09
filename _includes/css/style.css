@@ -17,8 +17,16 @@
 	0. HOMEPAGE
 ################################################################# */
 
+.sidebar-thumb {
+	width: 80px;
+	height: auto;
+}
+
 .thumb {
 	margin-bottom: 15px;
+	height: 200px;
+	width: auto;
+	max-width: 100%;
 
 }
 
@@ -331,7 +339,7 @@ a:focus {
 }
 
 #twrap {
-    background: url(../img/t-back.jpg) no-repeat center top;
+    background: url(../img/background-solder-station-overlay.jpg) no-repeat center top;
     position: relative;
     margin-top: 0px;
 	padding-top:60px;

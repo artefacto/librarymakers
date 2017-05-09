@@ -2,7 +2,8 @@
 layout: post
 title: Configuring a Raspberry Pi with PiBakery
 categories: [recipes]
-thumb: thumb01.jpg
+thumb: RaspberryPi_thumbnail_2.png
+img: RaspberryPi_Scale.jpg
 tags: [raspberrypi, configuration, tools]
 ---
 

@@ -2,7 +2,8 @@
 layout: post
 title: Raspberry Pi Digital Signage with Screenly
 categories: [recipes]
-thumb: thumb04.jpg
+thumb: touchscreen_tn.png
+img: ipad-820272_640.jpg
 tags: [raspberrypi, signage, digital signage]
 ---
 
