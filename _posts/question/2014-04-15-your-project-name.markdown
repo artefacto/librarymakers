@@ -1,9 +1,9 @@
 ---
 layout: question
-title:  "Why did the Chicken cross the road?"
+title:  "How do I submit a recipe?"
 date:   2014-04-25 16:54:46
-author: Marcel Newman
+author: Artefacto
 categories:
 - question
 ---
-To get to the other side.
+To submit a recipe, either send it to us or create a new follow the instructions on Github to create a new pull request.
