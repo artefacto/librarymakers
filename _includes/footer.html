@@ -2,7 +2,8 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-4">
-                <h4>About</h4>
+                <h4>Made with <i class='fa fa-heart red'></i>by <a href="https://twitter.com/artefactors" target="_blank">artefacto</a>
+</h4>
                 <div class="hline-w"></div>
                 <p>{{ site.about }}</p>
             </div>
@@ -19,12 +20,13 @@
                 </p>
             </div>
             <div class="col-lg-4">
-                <h4>Our Bunker</h4>
+                <h4>Also by us</h4>
                 <div class="hline-w"></div>
+
                 <p>
-                    {% for line in site.address.first.lines %}
-                        {{ line }} <br>
-                    {% endfor %}
+<a href="http://www.makinglibrarymakers.com" target="_blank">Making Library Makers </a><br />
+<a href="http://libraries.newslet.org" target="_blank">Newslet for Libraries </a><br />
+
                 </p>
             </div>
         </div><! --/row -->
