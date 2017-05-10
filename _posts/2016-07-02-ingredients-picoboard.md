@@ -8,7 +8,7 @@ tags: [scratch, sensors]
 ## What is it?
 
 The PicoBoard (also known as ScratchBoard) is an open source board which, similar to MaKey MaKey, allows us to easily connect a Scratch program to the physical world.
-
+<!--more-->
 What you find on the board
 
 1. Light sensor

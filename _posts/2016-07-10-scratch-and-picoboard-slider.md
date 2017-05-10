@@ -9,7 +9,7 @@ tags: [picoboard, scratch]
 After you [set-up your PicoBoard](/ingredients-picoboard), you can start playing with its different features.
 
 In this tutorial you'll learn how to use the PicoBoard slider to control movement of a character or Sprite in Scratch. We show you how to control the character's vertical or horizontal position with the slider and how to watch the changes of the slider sensor's value in real-time.
-
+<!--more-->
 ## What you need
 - PicoBoard (including mini USB cable)
 - Scratch software

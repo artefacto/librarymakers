@@ -9,7 +9,7 @@ tags: [events, workshops, families]
 Sometimes, with the emphasis on STEM education, the potential for creativity in making gets a bit lost in the mix.
 
 This outline is for a small group workshop with children/families (ages 8+) that focuses on creativity and active learning while introducing learners to creative computing, basic circuits and even some computational thinking concepts by stealth.
-
+<!--more-->
 During the workshop, learners are introduced to programming with Scratch, Makey Makey and basic circuit creation. They are then able to work on their own project (in pairs or with parents) using the materials and the software and hardware devices available.
 
 ## What you need

@@ -12,7 +12,7 @@ If you don't have access to a monitor and keyboard or just because it can be mor
 There are a few different ways to do this but in this tutorial we're going to log in and access our Raspberry Pi remotely using Virtual Network Computing (VNC). VNC is a way of sharing desktops so you can remotely control another computer.
 
 TightVNC is a cross-platform ,open-source remote desktop software application.
-
+<!--more-->
 
 ## What you need
 

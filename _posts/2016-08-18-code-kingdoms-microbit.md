@@ -10,7 +10,7 @@ tags: [microbit, learnToCode, javascript]
 Code Kingdoms (aka CK) is a drag and drop editor for JavaScript available on the Micro:Bit.
 
 Like other code editors on the MicroBit it comes with an introductory tutorial to help you get started which is what we're going to work through now.
-
+<!--more-->
 ## What you need
 
 - Micro:bit and USB cable

@@ -7,7 +7,7 @@ tags: [events, activities, workshops]
 
 ## What is it
 This guide was developed for families or young people ages 8+ and aims to introduce participants to different making concepts as well as the potential of these tools for creative expression.
-
+<!--more-->
 This outline is for a 2 hour workshop using Makey Makey and Scratch but can be adapted and remixed as required.
 
 

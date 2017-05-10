@@ -9,7 +9,7 @@ tags: [raspberrypi, display, browser]
 ## Intro
 
 The Raspberry Pi can be a great way to have a low-cost, low-powered display to create a display that can then be updated remotely.
-
+<!--more-->
 If you are using your Raspberry Pi with a monitor to display a website, dashboard or calendar or something you don’t want it to appear n a browser with the full desktop visible. It also helps to have it autoboot.
 
 In this tutorial, we'll set up a calendar display that automatically launches in fullscreen mode. This fullscreen mode is often called *kiosk mode*.

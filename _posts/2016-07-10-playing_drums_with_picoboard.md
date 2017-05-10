@@ -7,7 +7,7 @@ tags: [picoboard, scratch]
 
 ## Intro
 The resistance clips have two different ways of feedback- either a resistance value of 0 to 100 or a connected Yes/No return value. In this tutorial we'll show you how to use PicoBoard's resistance connectors to play drums.
-
+<!--more-->
 ## What you need
 - PicoBoard (including mini USB cable)
 - Alligator clips

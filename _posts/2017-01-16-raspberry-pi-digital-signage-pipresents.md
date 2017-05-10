@@ -10,6 +10,8 @@ tags: [raspberrypi, signage, digital signage]
 ## Intro
 You can use a Raspberry Pi attached to a monitor or TV as a affordable digital signage solution to display websites, images or videos. In this example, we use Pi Presents to create a multimedia digital signage solution.
 
+<!--more-->
+
 This can be used to create touchscreen systems, button controlled kiosk displays, repeating multimedia shows, audio-visual interpretation of exhibits and lots more.
 
 ## What you need

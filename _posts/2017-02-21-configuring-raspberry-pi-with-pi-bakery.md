@@ -12,6 +12,7 @@ _PiBakery_ is a tool that provides a visual, drag and drop interface for configu
 
 It's developed by David Ferguson and is available for Mac or Windows (or source).
 
+<!--more-->
 With PiBakery, you can easily configure your Raspberry Pi operating system just the way you like it, including startup scripts and your default account. This means it's also useful for creating multiple copies of the same Raspberry Pi operating system - great for teaching and for running Raspberry Pi workshops.
 
 ## What you need

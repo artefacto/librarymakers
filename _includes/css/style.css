@@ -17,6 +17,13 @@
 	0. HOMEPAGE
 ################################################################# */
 
+.red {
+	color: red !important;
+}
+
+i.red {
+	padding-right: 3px !important;
+}
 .sidebar-thumb {
 	width: 80px;
 	height: auto;
@@ -29,6 +36,8 @@
 	max-width: 100%;
 
 }
+
+
 
 .left {
 	float:left;
@@ -358,6 +367,7 @@ a:focus {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+		color: white;
 }
 
 #twrap i {
@@ -371,6 +381,12 @@ a:focus {
 	font-size: 15px;
 	line-height: 30px;
 }
+
+#twrap a {
+	color: white;
+
+}
+
 
 /* clients logo */
 #cwrap {
@@ -467,6 +483,12 @@ csmall {
 
 .badge-theme {
 	background: {{ site.colors.primary }};
+}
+
+/* ABOUT PAGE */
+#mc_embed_signup {
+	background: transparent !important ;
+	padding-bottom: 2em;
 }
 
 /* Contact Page */
