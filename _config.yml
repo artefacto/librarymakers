@@ -5,7 +5,7 @@ title: LibraryMakers
 description: "Recipes, tutorials & resources for current and future library makers."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://localhost:4000"
+url: "http://librarymakers.net"
 
 # Build settings
 markdown: kramdown
@@ -19,11 +19,11 @@ paginate_path: "posts/page/:num/"
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
-  primary: "#00b3fe" #"#F70031"
-  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
-  secondary: "#384452" #"#33004D"
-  link: "#428bca"
-  link_hover: "#01b2fe"
+  primary: "#37bcda" #"#F70031"
+  primary_rgb: "55,188,218" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
+  secondary: "#072730" #"#33004D"
+  link: "#32C4EA"
+  link_hover: "#A4E1F1"
   footer_heading: "#ffffff"
   footer_content: "#bfc9d3"
 
@@ -41,20 +41,19 @@ collections:
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: facebook
-    url:
+    url: https://www.facebook.com/artefactors/
   - title: twitter
-    url:
+    url: https://www.twitter.com/artefactors/
   - title: instagram
-    url:
-  - title: tumblr
-    url:
+    url: https://www.instagram.com/artefactors/
+  - title: github
+    url: https://github.com/artefacto/
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
+    - The Ribbon Factory
+    - London
 email: hello@artefacto.org.uk
 
 author:

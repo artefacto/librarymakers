@@ -52,6 +52,11 @@ i.red {
   padding-top: 1rem;
 }
 
+/* search button on homepage */
+button.search-button {
+	background: #A4E1F1;
+}
+
 /*	################################################################
 	1. GENERAL STRUCTURES
 ################################################################# */
@@ -79,7 +84,7 @@ p {
 	margin-bottom: 12px;
 	font-family: 'Lato', sans-serif;
 	font-weight: 400;
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 24px;
 	color: {{ site.colors.secondary }};
 	margin-top: 10px;
