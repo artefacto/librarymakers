@@ -17,6 +17,7 @@ Once you have a viewer, you can download compatible apps from the app store. Sca
 
 There’s an official Google Cardboard app with examples to get you started.
 
+
 ![Google Cardboard]({{ base.url }}/assets/img/blog/Google_Cardboard.jpg)
 
 

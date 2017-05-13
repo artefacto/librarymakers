@@ -39,6 +39,7 @@ Nb. It's quite a big file as it includes versions of the Rasbian operating syste
   - **PiZero OTG** - OTG modes on the Raspberry Pi Zero.
   - **Other** - These include changing directory permissions, running python scripts as a particular user, rebooting or removing files or folders.
 
+
   ![PiBakery other options]({{ base.url }}/assets/img/blog/pibakery/pibakery-other-options.png)
 
 

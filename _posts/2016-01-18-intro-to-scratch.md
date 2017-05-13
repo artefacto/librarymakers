@@ -12,6 +12,7 @@ Scratch is a programming language that allows you to create your interactive sto
 Scratch is designed especially for ages 8 to 16, but widely used by people of all ages.
 Using Scratch is an easy and fun start into the world of programming.
 
+
 ![Scratch]({{ base.url }}/assets/img/blog/Scratch.png)
 
 

@@ -35,7 +35,7 @@ The elements included are:
 
 [Business Model Canvas Poster](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf) (PDF)
 
-[An example business model canvas for a library makerspace]({{ base.url }}/public/docs/business_model_canvas_example.docx) (docx)
+[An example business model canvas for a library makerspace]({{ base.url }}/assets/docs/business_model_canvas_example.docx) (docx)
 
 
 # Online resource

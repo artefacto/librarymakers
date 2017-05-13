@@ -9,6 +9,7 @@ tags: [raspberrypi, signage, digital signage]
 
 ## Intro
 You can use a Raspberry Pi attached to a monitor or TV as a affordable digital signage solution to display websites, images or videos. In this example, we use Screenly OS to create a simple digital signage solution.
+
 <!--more-->
 
 ## What you need
@@ -36,6 +37,7 @@ You can then navigate to this address from any computer on the local network to 
 When you open the Screenly manager, you will be able to add and remove 'assets' to display on your digital display. These can be either images, videos or webpages and will work best if sized for a 1920x1080 display.
 
 They can be uploaded from your computer or added by URL.
+
 
 ![Screenly OSE manager]({{ base.url }}/assets/img/blog/screenly/Screenly-add-asset.png)
 

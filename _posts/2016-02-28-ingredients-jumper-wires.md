@@ -19,6 +19,6 @@ A Jumper wire is a short electrical wire mostly used to connect the components o
 ![Female to Male jumper wires]({{ base.url }}/assets/img/blog/female-to-male-jumper-wires.jpg)
 
 
-
 ### female-to-female jumper wires
+
 ![Female to Female jumper wires]({{ base.url }}/assets/img/blog/female-to-female-jumper-wires.jpg)

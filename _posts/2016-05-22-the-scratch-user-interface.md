@@ -44,4 +44,5 @@ A sprite is an object that performs actions in Scratch. Sprites are the only par
 ### What is a stage?
 Stages, on the other hand, are the backdrops in your project.You can make changes to these backdrop images but they don’t move and can’t perform actions based on the scripts you create.
 
+
 ![The sprite info pane]({{ base.url }}/assets/img/blog/scratch/sprite and stage area_2.png)

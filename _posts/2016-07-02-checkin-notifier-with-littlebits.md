@@ -8,9 +8,10 @@ tags: [littlebits, CloudBit, electronics]
 ## Intro
 Cloudbit is a LittleBits module that let’s you connect your LittleBits circuit with web services. This can be done via IFTTT, via the Cloud Control App or via the LittleBits API. Using IFTTT, you can connect to the CloutBit to control services like Twitter and Google Drive without needing to write any code.
 
+
 ![Cloudbit]({{ base.url }}/assets/img/blog/littlebits/cloudbit1.jpg)
 
-In this example, we're going to create a notification checkin that will let people check-in at a particular location using CloudBit and IFTTT. When someone checks-in at the CloudBit location, you'll receive an email notification. 
+In this example, we're going to create a notification checkin that will let people check-in at a particular location using CloudBit and IFTTT. When someone checks-in at the CloudBit location, you'll receive an email notification.
 
 ## What you need
 
@@ -24,6 +25,7 @@ If this is the first time you have used your CloudBit, you need to first connect
 To test whether your CloudBit is correctly connected to the network, you need to set up a basic circuit. Put together the circuit by connecting the LittleBit power module (USB connected to the wall) to the CloudBit connector module. Connect this to a light output.
 
 Your basic CloudBit circuit should look like this:
+
 
 ![Cloudbit circuit]({{ base.url }}/assets/img/blog/littlebits/cloudbit-circuit.png)
 
@@ -44,6 +46,7 @@ Now, click **that** to set the action for your recipe.
 We want it to trigger when our module is on. We're using the Pressure sensor module so this will be when someone touches the pressure sensor.
 
 Our notification can be sent by SMS, email or push notification. This can depend on the type of phone you use or how you'd like to receive notifications. In this case, we'll use the gMail notifier action.
+
 
 ![IFTTT create a recipe]({{ base.url }}/assets/img/blog/littlebits/LittleBits-gmail-action-channels.png)
 

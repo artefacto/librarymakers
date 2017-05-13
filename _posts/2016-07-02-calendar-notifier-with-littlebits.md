@@ -8,6 +8,7 @@ tags: [littlebits, CloudBit, electronics]
 ## Intro
 Cloudbit is a LittleBits module that let’s you connect your LittleBits circuit with web services. This can be done via IFTTT, via the Cloud Control App or via the LittleBits API. Using IFTTT, you can connect to the CloutBit to control services like Twitter and Google Drive without needing to write any code.
 
+
 ![Cloudbit]({{ base.url }}/assets/img/blog/littlebits/cloudbit1.jpg)
 
 
@@ -29,6 +30,7 @@ To test whether your CloudBit is correctly connected to the network, you need to
 
 Your basic CloudBit circuit should look like this:
 
+
 ![Cloudbit circuit]({{ base.url }}/assets/img/blog/littlebits/cloudbit-circuit.png)
 
 Log in to IFTTT and click on create recipe
@@ -46,6 +48,7 @@ If this is your first time connecting this Channel, IFTTT will request permissio
 Once you've connected the channel, you need to select what type of trigger you want to use. This is what sends the signal for your recipe to fire and can be the beginning of an event, a new calendar appointment added or based on the start of events matching a particular keyword.
 
 In this example we're going to set the trigger to be when a new event is added to our calendar.
+
 
 ![IFTTT set a calendar trigger]({{ base.url }}/assets/img/blog/littlebits/Choose-a-calendar-trigger-annotated.png)
 

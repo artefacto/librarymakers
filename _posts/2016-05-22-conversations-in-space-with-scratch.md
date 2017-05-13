@@ -13,6 +13,7 @@ With Scratch, you can create simple stories using different characters. In this 
 
  This is what we are building (though this is just an outline that you can create your own story from)
 
+
 ![Conversation in space]({{ base.url }}/assets/img/blog/scratch/7tedYo0Z6q.gif)
 
 ## How
@@ -35,6 +36,7 @@ Choose whatever backdrop you want for your library. For this example, we're goin
 Now, let's add our first conversation script.
 
 We start with a 'When Flag Clicked' block. It looks like this and you can find it under the Events category:
+
 
 ![When flag clicked]({{ base.url }}/assets/img/blog/scratch/when-flag-clicked-block.png)
 

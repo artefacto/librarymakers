@@ -10,6 +10,7 @@ Sometimes, with the emphasis on STEM education, the potential for creativity in 
 
 This outline is for a small group workshop with children/families (ages 8+) that focuses on creativity and active learning while introducing learners to creative computing, basic circuits and even some computational thinking concepts by stealth.
 <!--more-->
+
 During the workshop, learners are introduced to programming with Scratch, Makey Makey and basic circuit creation. They are then able to work on their own project (in pairs or with parents) using the materials and the software and hardware devices available.
 
 ## What you need
@@ -53,4 +54,4 @@ Set the task for participants to complete either with parents or in small groups
 #### Part 5 - What’s next
 Let learners know how they can continue their project and what they can next do either on their own or at future library events.
 
-#### [Download the guide](http://librarymakers.net/public/docs/creativemaking-workshop-with-scratch-and-makeymakey.pdf)
+#### [Download the guide](http://librarymakers.net/assets/docs/creativemaking-workshop-with-scratch-and-makeymakey.pdf)

@@ -7,6 +7,7 @@ tags: [littlebits, internet, ifttt]
 
 ## What is it ?
 Cloudbit is a LittleBits module that let’s you connect your LittleBits circuit with web services. This can be done via IFTTT, via the Cloud Control App or via the LittleBits API. Using IFTTT, you can connect to the CloutBit to control services like Twitter and Google Drive without needing to write any code.
+
 <!--more-->
 ![Cloudbit]({{ base.url }}/assets/img/blog/littlebits/cloudbit1.jpg)
 

@@ -1,0 +1,17 @@
+
+<div class="taglist">
+ {% for tag in site.tags %}
+ <div class="col span_1_of_3">
+
+    <li style="label">
+			<i class="fa fa-tag  taglist-icon grey"></i><br>
+        <a href="/tags/{{ tag | first |downcase | slugize  }}/" class="tag">
+
+            {{ tag | first }}<br>
+<span class="tag-number grey">	{{ tag | last | size }}</span>
+        </a>
+
+    </li>
+	</div>
+ {% endfor %}
+</div>

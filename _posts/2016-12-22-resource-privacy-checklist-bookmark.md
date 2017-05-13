@@ -1,5 +1,7 @@
 ---
 layout: post
+title: Privacy Checklist Bookmark
+categories: [resources]
 title: Privacy Checklist Bookmark template
 categories: [resources]
 thumb: checklist-tn.png
@@ -18,6 +20,6 @@ Designed for printing on A4 paper. For best results, we recommend 150gsm stock o
 
 # Downloads
 
-[Privacy Checklist bookmark template (docx)]({{ base.url }}/public/docs/PrivacyBookmarksA4.docx)
+[Privacy Checklist bookmark template (docx)]({{ base.url }}/assets/docs/PrivacyBookmarksA4.docx)
 
-[Privacy Checklist bookmark template (PDF)]({{ base.url }}/public/docs/PrivacyBookmarksA4.pdf)
+[Privacy Checklist bookmark template (PDF)]({{ base.url }}/assets/docs/PrivacyBookmarksA4.pdf)

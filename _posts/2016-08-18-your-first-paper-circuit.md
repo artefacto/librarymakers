@@ -9,7 +9,9 @@ tags: [circuits, paper, electricity, conductivity]
 Paper circuits are a cheap, creative and accessible way to learn the basics of electronics and circuits.
 
 Using a conductive material like copper tape (or conductive ink), you can create simple circuits on paper that are powered by a coin cell battery.
+
 <!--more-->
+
 ## What you need
 
 - Paper
@@ -40,6 +42,7 @@ Open circuit:
 
 Closed circuit:
 ![Closed paper circuit]({{ base.url }}/assets/img/blog/paper-circuits/paper-circuit-closed.jpg)
+
 
 
 If your LED doesn't come on, press down on the battery to see if the connection needs more pressure.

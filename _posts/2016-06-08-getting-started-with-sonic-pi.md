@@ -17,11 +17,13 @@ Once installed you can access Sonic Pi via the desktop:
 
 There are also versions available for Windows, Mac and Linux that you can download from [http://sonic-pi.net/](http://sonic-pi.net/)
 
+
 ![Sonic Pi welcome]({{ base.url }}/assets/img/blog/sonic-pi/welcome-screen.png)
 
 ## The official tutorial
 
 The first thing you’ll notice when you first launch Sonic Pi is that it directs you to a tutorial. You can access the different parts of the tutorial from the bottom pane, underneath the main code editor panel.
+
 
 ![Sonic Pi tutorial]({{ base.url }}/assets/img/blog/sonic-pi/Tutorial-pane-annotated.png)
 

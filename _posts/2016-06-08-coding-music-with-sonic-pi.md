@@ -73,6 +73,7 @@ You can specify the synth to use to change the sound.
 
 The synth options (like other code in Sonic Pi) will autocomplete so you can try out different ones at random or you can refer to the list of available synths from the help panel at the bottom of the screen.    
 
+
 ![Sonic Pi synth options]({{ base.url }}/assets/img/blog/sonic-pi/synth-options.png)
 
 

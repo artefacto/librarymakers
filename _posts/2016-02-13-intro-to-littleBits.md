@@ -10,6 +10,7 @@ littleBits are an open source electronic module platform of electronic building 
 
 The company was started by Ayah Bdeir and, [for the most part](https://support.littlebits.cc/hc/en-us/articles/201479547-What-parts-of-littleBits-products-aren-t-Open-Source), the Little Bits circuit designs are open source.
 
+
 ![little Bits]({{ base.url }}/assets/img/blog/LittleBits_Base_Kit.jpg)
 
 The modules are colour-coded and there are currently over 60 modules in the library that can be connected to form different combinations.

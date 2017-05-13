@@ -11,6 +11,7 @@ Code Kingdoms (aka CK) is a drag and drop editor for JavaScript available on the
 
 Like other code editors on the MicroBit it comes with an introductory tutorial to help you get started which is what we're going to work through now.
 <!--more-->
+
 ## What you need
 
 - Micro:bit and USB cable
@@ -18,12 +19,10 @@ Like other code editors on the MicroBit it comes with an introductory tutorial t
 ## How
 To open Code Kingdoms, click on ‘Create Code’ and select Code Kingdoms from the available options.
 
-
 ![Microbit main screen]({{ base.url }}/assets/img/blog/microbit/select-code-kingdoms.png)
 
 
 If it’s the first time you’ve opened this editor, it will prompt you to a complete a tutorial but otherwise you can open a tutorial from the list available in the menu.
-
 
 ![Microbit start tutorial]({{ base.url }}/assets/img/blog/microbit/start-tutorial.png)
 
@@ -35,16 +34,13 @@ Each completed step will be crossed off as you move onto the next one.
 
 The required script block or ‘chunk’ will be highlighted in orange to help you identify it
 
-
 ![Microbit main screen]({{ base.url }}/assets/img/blog/microbit/tutorial-step1.png)
-
 
 It can take some time to get used to how the code blocks are organised. You have the Actions and Controls, Library,  Language and Snippets menus as well as the list of tutorials available
 
 ![Microbit CK menu annotated]({{ base.url }}/assets/img/blog/microbit/microbit-ck-editor-menu-annotated.png)
 
 You can restart or continue the tutorial at any stage by returning to edit your script and clicking on the tutorial name again.
-
 
 ![Microbit CK tutorial completed]({{ base.url }}/assets/img/blog/microbit/completed-roll-the-dice-tutorial.png)
 

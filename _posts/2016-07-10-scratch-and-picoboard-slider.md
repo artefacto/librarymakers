@@ -9,7 +9,9 @@ tags: [picoboard, scratch]
 After you [set-up your PicoBoard](/ingredients-picoboard), you can start playing with its different features.
 
 In this tutorial you'll learn how to use the PicoBoard slider to control movement of a character or Sprite in Scratch. We show you how to control the character's vertical or horizontal position with the slider and how to watch the changes of the slider sensor's value in real-time.
+
 <!--more-->
+
 ## What you need
 - PicoBoard (including mini USB cable)
 - Scratch software
@@ -19,6 +21,7 @@ In this tutorial you'll learn how to use the PicoBoard slider to control movemen
 * Once everything is set up, we'll start a new project. First, we want to write a script which will allow us to control the character's movement with the slider. In this case, we want to control its vertical position.
 * In Scripts, click on 'Events' button to select 'When the green flag clicked' block. This means that when the green flag button is clicked the script will start.
 * Now, let's write a simple script. We click on 'Control' to select 'forever' block, and consequently on 'Motion' to select 'set y to 0' block. Then, either under 'Sensing' or 'More Blocks' we have to select 'slider sensor value'. This allows us to control the character's vertical position with the slider sensor.
+
 
 ![Scratch Picoboard slider script]({{ base.url }}/assets/img/blog/picoboard/scratch_Picoboard_Recipe_Slider1.png)
 

@@ -33,6 +33,7 @@ Not familiar with Scratch? No worries, this step-by-step recipe will help you ge
 2. Open this link on your browser [https://scratch.mit.edu/](https://scratch.mit.edu/) to access the Scratch software.
 3. At the Scratch site, click on ‘try it out’ and start to explore it. In this case we want to substitute a cat sprite for a monkey. To do so we choose a monkey sprite from an existing Scratch library.  Once we have a new sprite on the stage, we right click the original cat sprite and delete it.
 4. Now we want to control our monkey’s movement. We want to be able to control it with “space” and “left arrow” keys.  To do so we choose “event” and drag ‘when space key pressed’ block to the right area. Then we make a duplicate and change ‘space’ for ‘left arrow’.
+
 ![Scratch and Makey Makey 1]({{ base.url }}/assets/img/blog/scratch/scratch-makeymakey-1.png)
 
 5. We want the sprite move 40 steps when space key is pressed and turn clockwise 15 degrees when left arrow is pressed. We choose “movement” and drag ‘move 40 steps’ and ‘turn 15 degrees’ to the right area.
@@ -42,6 +43,7 @@ Not familiar with Scratch? No worries, this step-by-step recipe will help you ge
 7. Connect to Earth - Now you can connect one end of an alligator clip to the bottom of MaKey MaKey which is marked as “Earth”.
 8. Connect to Yourself - Then you hold the other end of the alligator clip (the metal part) between your fingers, and now you become “grounded”.
 9. Connect MaKey MaKey to your drawing - If you want your drawings to become your keyboard keys, you connect them to your MaKey MaKey with the help of alligator clips. On the front side of MaKey MaKey you find “space” and “left arrow”. Connect them with two alligator clips to two parts of your graphite drawing. In our case, we connected MaKey MaKey “space” and “left arrow” to the monkey’s ears.
+
 ![Scratch and Makey Makey 3]({{ base.url }}/assets/img/blog/scratch/scratch-makeymakey-3.jpg)
 
 10. Touch the monkey’s ears on your drawing and control movements of the sprite! (Don’t forget the step 7)
