@@ -3,7 +3,7 @@
 # Site settings
 title: LibraryMakers
 description: "Recipes, tutorials & resources for current and future library makers."
-analytics: #Google analytics code in the format XX-nnnnnnnn-n
+analytics: UA-35586044-8
 baseurl: "" #important: start with /
 url: "http://librarymakers.net"
 
