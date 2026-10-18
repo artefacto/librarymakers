@@ -1,5 +1,7 @@
 # LibraryMakers
 
+> **This project has been retired.** librarymakers.net is no longer maintained. An archived copy of the site is available on the [Internet Archive](https://web.archive.org/web/2026/https://librarymakers.net/), and the source remains here for reference.
+
 This was created using Jekyll [Jekyll](http://jekyllrb.com).
 
 The theme is a [Jekyll](http://jekyllrb.com/) port of the [Solid theme](http://www.blacktie.co/2014/05/solid-multipurpose-theme/) by [blacktie.co](http://www.blacktie.co/).A Bootstrap theme for Jekyll.
