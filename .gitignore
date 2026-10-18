@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # Ignore docs files
 _gh_pages
 _site
+.jekyll-cache
 .ruby-version
 
 # Numerous always-ignore extensions
@@ -41,7 +41,3 @@ validation-report.json
 # Folders to ignore
 node_modules
 gh-pages/
-=======
-_site
->>>>>>> newtheme
-.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910
